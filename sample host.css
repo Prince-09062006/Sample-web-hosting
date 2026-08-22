@@ -1,0 +1,33 @@
+body {
+  background:linear-gradient(to bottom, purple, #292929);
+  font-family: "Noto Serif SemiBold", Serif, SemiBold;
+     }
+
+    .container{
+    width: 95%;
+    padding: 15px;
+    margin: 20px auto;
+    box-sizing: border-box;
+    border-radius: 40px 40px 40px 40px;
+    background-color:white
+}
+
+.top{
+text-align:center;
+}
+
+.name{
+    text-align:center;
+}
+
+.box1{
+    width: 90%;
+    margin: 35px auto;
+    background-color: purple ;
+    padding: 25px;
+    border-radius: 90px 90px 90px 90px;
+    border-color: #292929;
+    border-style: solid ;
+    border-width: thick;
+    color:white
+}
